@@ -4,15 +4,15 @@
 🍿 You can request to join us if you're a member of LUNAR LAB Development Team.
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" width="100"/>
     <div id="badges">
-    <a href="https://www.linkedin.com/company/engen-ai/mycompany/">
+    <a href="https://www.linkedin.com">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.instagram.com/engenai_sl/?hl=en">
+    <a href="https://www.instagram.com">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="https://www.engenuityai.com/">
+    <a href="">
       <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Website Badge"/>
     </a>
   </div>
